@@ -57,4 +57,4 @@ sudo apt-get install eyed3
 ```
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPLv2 License.
